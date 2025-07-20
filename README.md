@@ -14,4 +14,5 @@ This repository contains a strategic business case I developed for Mottu's poten
 
 ## Author
 Md. Robin Jamal  
+📫 jamalmdrobin@gmail.com
 [LinkedIn](https://www.linkedin.com/in/robinjamal)  
